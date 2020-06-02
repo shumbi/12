@@ -1,0 +1,13 @@
+# Tmp folders and files
+tmp
+tmp/**
+tmp/**/*
+*.tmp
+
+#Old Backup files
+*._old
+*._backup
+
+# Windows image file caches
+Thumbs.db
+.DS_Store
